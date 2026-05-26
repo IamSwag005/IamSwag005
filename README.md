@@ -1,55 +1,53 @@
-<h1 align="center">Hi👋, I'm Swagathchandran Sumeeth</h1>
-<h3 align="center">🚀 A passionate developer who loves building cool stuff</h3>
+# Hi there 👋 I'm Swag
 
----
-- 💬 Ask me about **React, Node.js, MongoDB, ML projects**
-- 📫 How to reach me: [swagathchandran91@gmail.com]
-- ⚡ Fun fact: I believe in code, coffee, and consistency ☕💻
-
----
-
-### 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=flat&logo=javascript)
-![React](https://img.shields.io/badge/react-%2320232a.svg?&style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?&style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?&style=flat&logo=python&logoColor=white)
+🚀 B.Tech CSE (AI) Student @ Amrita Vishwa Vidyapeetham  
+💡 Passionate about AI, Machine Learning, Problem Solving & Development  
+🧠 Exploring Deep Learning, Computer Vision, and Intelligent Systems  
+⚡ Building projects that combine creativity with real-world impact  
+🎯 Goal: Research, Open Source Contributions & Top Tech Internships  
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Tech Stack
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=IamSwag005&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" 
-  />
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSwag005&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-  />
-</p>
----
-
-### 🚀 Featured Projects
-
-Coming Soon....
-
+### AI & Development
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🌍 Connect with Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swagathchandran-sumeeth-89b760288/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:swagathchandran91@gmail.com)
+![](https://github-readme-stats.vercel.app/api?username=IamSwag005&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=IamSwag005&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamSwag005&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-*“Code like there's no tomorrow — because bugs don’t wait.” 💥*
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Deep Learning Architectures
+- Research & Paper Publishing
+- Scalable System Design
 
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+> “Code. Build. Research. Repeat.” ⚡
