@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Swag
+# Hi there 👋 I'm Swagathchandran Sumeeth
 
 🚀 B.Tech CSE (AI) Student @ Amrita Vishwa Vidyapeetham  
 💡 Passionate about AI, Machine Learning, Problem Solving & Development  
