@@ -23,13 +23,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamSwag005&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=IamSwag005&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSwag005&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSwag005&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+  />
 </p>
-
 ---
 
 ### 🚀 Featured Projects
