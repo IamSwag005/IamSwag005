@@ -20,10 +20,15 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Swagathchandran's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamSwag005&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamSwag005&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IamSwag005&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSwag005&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
